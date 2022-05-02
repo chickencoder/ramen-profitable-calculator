@@ -1,2 +1,2 @@
-Ramen Profitable Calculator
+#Ramen Profitable Calculator
 Calculator for working out your ramen profitable figure.
